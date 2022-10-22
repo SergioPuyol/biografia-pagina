@@ -1,0 +1,41 @@
+*{  
+    color:rgb(5, 6, 6);
+    text-align:center;
+}
+
+#imgPerfil{
+    border-radius: 75%;
+    border:solid 10px;
+    border-color: rgb(238, 175, 174);
+  }
+
+  h2{
+    font-size: 300%;
+    font-style: oblique;
+  }
+
+  .titulos{
+    color: rgb(128, 226, 43);
+    font: size px 50px; ;
+    font-style: initial;
+  }
+
+  #biografia {
+    text-align: center;
+  }
+  .div.Line {
+    display: block;
+  }
+
+  #Filmografia  {
+    display: inline-block;
+  }
+h3  {
+  color: blueviolet;
+}
+li  {
+  color: rgb(229, 220, 245);
+}
+#familia  {
+  display: inline-block;
+}
